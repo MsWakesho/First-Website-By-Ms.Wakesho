@@ -1,0 +1,45 @@
+h1 {
+    border: 10px solid Violet;
+}
+
+
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: rgb(230,59,134);
+    background: radial-gradient(circle, rgba(230,59,134,1) 17%, rgba(102,156,219,1) 100%);
+    font-size: 30px;
+    
+}
+
+button{
+    background-color: violet;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border: 2px solid #7e67b6;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+ 
+}
+
+img {
+    border-radius: 20%;
+  }
+
+
+
+
+
+
+
+
